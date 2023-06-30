@@ -5,6 +5,8 @@
 ### Gilmar Morales
 ### David Vallejo
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Pasos del video:
 
 ![image](https://github.com/DavidPK8/Replicas/assets/127541791/fc16fd2f-bbd0-4b30-8839-c4deacb4bdc7)
