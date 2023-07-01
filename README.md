@@ -22,15 +22,20 @@ Pasos del video:
 ![image](https://github.com/DavidPK8/Replicas/assets/127541791/da0ef2de-9147-45ee-a126-cb788906c420)
 
 
-4. Mediante el siguiente codigo se van a enviar los 10 mil documentos (2 mil por integrante) lo cual se enviara entre el 0 y 2000 mil datos existentes dentro del csv "val_stats.csv" junto con los campos de nombre y apellido de los integrantes del equipo a la replica que se creo anteriormente
+4. Mediante el siguiente codigo se van a enviar los 10 mil documentos (2 mil por integrante) lo cual se enviara entre el 0 y 2 mil datos existentes dentro del csv "val_stats.csv" junto con los campos de nombre y apellido de los integrantes del equipo a la replica que se creo anteriormente
 
 ![image](https://github.com/DavidPK8/Replicas/assets/127541791/e82d81b7-a71a-492f-9cd6-181c79892501)
 
-5. Con la siguiente función va a permitir el id y nombre del documento y además el nombre de la persona que implemento el documento
+5. Ejecutado el codigo se puede observar como se han enviado exitosamente todos los 2 mil documentos que se solicitaban dentro del codigo a la base de datos de la persona que son enviados directamente a la replica de la base de datos principal
+
+![image](https://github.com/DavidPK8/Replicas/assets/127541791/eb95b38c-91ec-4e19-b30f-8b8581a3f280)
+
+
+6. Con la siguiente función va a permitir el id y nombre del documento y además el nombre de la persona que implemento el documento
 
 ![image](https://github.com/DavidPK8/Replicas/assets/127541791/1c0875a6-f949-4d91-8402-bd6b58d9d5f6)
 
-6. Una vez ejecutada la función se puede observar como se imprime la id del documento y el nombre de la persona que lo implemento
+7. Una vez ejecutada la función se puede observar como se imprime la id del documento y el nombre de la persona que lo implemento
 
 ![image](https://github.com/DavidPK8/Replicas/assets/127541791/2d4e7fc5-a9b6-45db-b414-ece2512afaf3)
 
