@@ -26,5 +26,11 @@ Pasos del video:
 
 ![image](https://github.com/DavidPK8/Replicas/assets/127541791/e82d81b7-a71a-492f-9cd6-181c79892501)
 
+5. Con la siguiente función va a permitir el id y nombre del documento y además el nombre de la persona que implemento el documento
 
+![image](https://github.com/DavidPK8/Replicas/assets/127541791/1c0875a6-f949-4d91-8402-bd6b58d9d5f6)
+
+6. Una vez ejecutada la función se puede observar como se imprime la id del documento y el nombre de la persona que lo implemento
+
+![image](https://github.com/DavidPK8/Replicas/assets/127541791/2d4e7fc5-a9b6-45db-b414-ece2512afaf3)
 
