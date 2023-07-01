@@ -17,16 +17,16 @@ Pasos del video:
 
 ![image](https://github.com/DavidPK8/Replicas/assets/127541791/2ccd1124-7224-4075-97da-522d213634b9)
 
-3. Además de crear la base de datos principal se crea una replica de tipo "continua" por conexion remota la cual se van a enviar todos los documentos existentes dentro de la base de datos de cada integrante 
+3. Además de crear la base de datos "videojuegos" se crea una replica de tipo "continua" por conexion remota la cual se van a enviar todos los documentos existentes dentro de la base de datos de cada integrante 
 
 ![image](https://github.com/DavidPK8/Replicas/assets/127541791/da0ef2de-9147-45ee-a126-cb788906c420)
 
 
-4. Mediante el siguiente codigo se van a enviar los 10 mil documentos (2 mil por integrante) lo cual se enviara entre el 0 y 2 mil datos existentes dentro del csv "val_stats.csv" junto con los campos de nombre y apellido de los integrantes del equipo a la replica que se creo anteriormente
+4. Mediante el siguiente codigo se van a enviar los 10 mil documentos (2 mil por integrante) lo cual se enviara entre el 0 y 2 mil datos existentes dentro del csv "val_stats.csv" junto con los campos de nombre y apellido de los integrantes del equipo 
 
 ![image](https://github.com/DavidPK8/Replicas/assets/127541791/e82d81b7-a71a-492f-9cd6-181c79892501)
 
-5. Ejecutado el codigo se puede observar como se han enviado exitosamente todos los 2 mil documentos que se solicitaban dentro del codigo a la base de datos de la persona que son enviados directamente a la replica de la base de datos principal
+5. Ejecutado el codigo se puede observar como se han enviado exitosamente todos los 2 mil documentos que se solicitaban dentro del codigo a la base de datos de la persona que son enviados directamente a la replica de la base de datos "videojuegos"
 
 ![image](https://github.com/DavidPK8/Replicas/assets/127541791/eb95b38c-91ec-4e19-b30f-8b8581a3f280)
 
